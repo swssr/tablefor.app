@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return WebView(
-      initialUrl: 'https://flutter.dev',
+      initialUrl: 'https://meal.tablefor.app/',
     );
   }
 }
